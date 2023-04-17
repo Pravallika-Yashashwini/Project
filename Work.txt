@@ -1,0 +1,30 @@
+Service Provider
+
+Login,
+Browse and Train & Test Data Sets, 
+Find Credit Card Results Details, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results,
+View Detected Credit Card Fraud Details, 
+Download Credit Card Fraud Detection Data Sets, 
+View Credit Card Fraud Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+Credit Card Fraud Prediction Ratio Details, 
+VIEW YOUR PROFILE.
+
+
+Members
+
+
+Fraud_Cases
+Valid_Transactions
+detection_results
+model_name
+precision1
+recall
+F1_Score
